@@ -1,19 +1,19 @@
 body {
     margin: 0;
-    padding: 0;
-    text-align: center;
+    padding:0;
     background-color: lightblue;
 }
 
-h1 {
-    padding-top: 4em;
+.container {
+   background-color: #9acd32;
+   height: 70px;
 }
 
-p {
-    margin: 2em 0;
-}
-
-img {
-    width: 40em;
-    max-width: 90%;
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 80%;
+    margin: auto;
 }
