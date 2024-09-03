@@ -82,18 +82,18 @@ body {
 }
 
 .codingImage {
-    height: 320px;
-    width: 550px;
+    height: 25vh;
+    width: 50vh;
 }
 
 .musicImage {
-    height: 300px;
-    width: 400px;
+    height: 27vh;
+    width: 40vh;
 }
 
 .aboutMeImage {
-    height: 300px;
-    width: 300px;
+    height: 26vh;
+    width: 26vh;
 }
 .logo {
     width: 70%;
